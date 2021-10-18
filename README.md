@@ -28,7 +28,7 @@
 
 <br />
 
-ps. wszystkie błędy ortograficzne dla beki
+###ps. wszystkie błędy ortograficzne dla beki
 
 [youtube]: https://www.youtube.com/channel/UCMG_t9uhfl8C3Ql7xHUFIoQ
 [twitch]: https://twitch.tv/witterekk
