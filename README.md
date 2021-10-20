@@ -28,6 +28,9 @@
 
 <br />
 
+### Moje staty !
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
+
 ## ps. wszystkie błędy ortograficzne dla beki
 
 [youtube]: https://www.youtube.com/channel/UCMG_t9uhfl8C3Ql7xHUFIoQ
