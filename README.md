@@ -13,16 +13,16 @@
 
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/k4N5wn3gRB 」
 
-### Moje socialki 🥵
-
-[<img align="left" alt="witterekk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="witterekk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
 <br />
 
 
 ### Moje staty 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
+
+### Moje socialki 🥵
+
+[<img align="left" alt="witterekk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="witterekk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 
 ## Liczba osób która odwiedziła mój profil 📯
