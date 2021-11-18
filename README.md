@@ -1,5 +1,9 @@
 ### Siemano Kolano jestem Mateusz - znany tesz jako witterekk 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+PiwnicaRP" />
+</p>
+
 ## Jestem potensznym Lua Devem 🤑
 
 - ⚡ Robie skrypty fivem i hój
