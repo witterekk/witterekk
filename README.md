@@ -8,7 +8,6 @@
 
 <img align="right" height="100" src=""/>
 
-
 ### Kontakt do mnie: 
 
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/k4N5wn3gRB 」
