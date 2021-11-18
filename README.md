@@ -19,6 +19,8 @@
 [<img align="left" alt="witterekk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
+
+
 ### Moje staty 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
 
