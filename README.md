@@ -13,8 +13,6 @@
 
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/k4N5wn3gRB 」
 
-<br />
-
 ### Moje staty 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
 
