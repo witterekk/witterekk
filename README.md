@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+PiwnicaRP" />
 </p>
 
-<img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+<img align="up" height="200" src="https://media.giphy.com/media/YZ5KeXcr0nYaY/giphy.gif"/>
 
-<img align="right" height="100" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+<img align="down" height="100" src="https://media.giphy.com/media/YZ5KeXcr0nYaY/giphy.gif"/>
 
 
 ### Kontakt do mnie: 
