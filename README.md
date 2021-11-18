@@ -15,16 +15,8 @@
 
 <br />
 
-
 ### Moje staty 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
-
-### Moje socialki 🥵
-
-[<img align="left" alt="witterekk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="witterekk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
-<br/>
 
 ## Liczba osób która odwiedziła mój profil 📯
 ![Visitor Count](https://profile-counter.glitch.me/witterekk/count.svg)
