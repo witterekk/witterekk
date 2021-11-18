@@ -4,20 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+PiwnicaRP" />
 </p>
 
-<img align="left" height="200" src="https://media.giphy.com/media/6swcfDQHr3UTm/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
+
+<img align="right" height="100" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
 
 ### Kontakt do mnie: 
 
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/sFVR2vs3mC 」
+「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/k4N5wn3gRB 」
 
 ### Moje socialki 🥵
 
 [<img align="left" alt="witterekk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="witterekk | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+
 <br />
-
-
 ### Moje staty 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=witterekk&count_private=true&show_icons=true?theme=buefy)
 
