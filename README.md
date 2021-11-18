@@ -6,7 +6,7 @@
 
 <img align="left" height="200" src="https://media.giphy.com/media/YZ5KeXcr0nYaY/giphy.gif"/>
 
-<img align="right" height="200" src="https://media.giphy.com/media/YZ5KeXcr0nYaY/giphy.gif"/>
+<img align="right" height="100" src=""/>
 
 
 ### Kontakt do mnie: 
