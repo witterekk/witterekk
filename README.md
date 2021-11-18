@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+PiwnicaRP" />
 </p>
 
-<img align="left" height="200" src="https://media.giphy.com/media/z4ZIQbtkb5eJq/giphy.gif"/>
+<img align="left" height="350" src="https://media.giphy.com/media/z4ZIQbtkb5eJq/giphy.gif"/>
 
 
 
