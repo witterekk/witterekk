@@ -10,7 +10,7 @@
 
 ### Kontakt do mnie: 
 
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/k4N5wn3gRB 」
+「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/rbWVQ5FA4A 」
 <p>
 
 「 <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />https://steamcommunity.com/id/witterekk 」
