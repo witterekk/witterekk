@@ -1,7 +1,7 @@
 <h1 align="center"> witterekk </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+Witterekk Company" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=007cd9&width=500&lines=+Witterekk_Company" />
 </p>
 
 <img align="left" height="350" src="https://media.giphy.com/media/z4ZIQbtkb5eJq/giphy.gif"/>
